@@ -1,0 +1,5 @@
+**You:** list all of the insurance services available thru jazz. Just list their names
+**Bot:** 1. Haafiz Plan  
+2. Haafiz Plus Plan  
+3. BIMA Accidental Insurance  
+4. Handset Insurance (Monthly X Plan)  

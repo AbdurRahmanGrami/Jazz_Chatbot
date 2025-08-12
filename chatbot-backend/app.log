@@ -1,0 +1,16 @@
+2025-07-24 11:36:57,570 [INFO] Load pretrained SentenceTransformer: models/all-MiniLM-L6-v2
+2025-07-24 11:37:02,179 [INFO] Use pytorch device_name: cpu
+2025-07-24 11:37:02,566 [INFO] Loading faiss with AVX2 support.
+2025-07-24 11:37:02,567 [INFO] Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-07-24 11:37:02,567 [INFO] Loading faiss.
+2025-07-24 11:37:02,669 [INFO] Successfully loaded faiss.
+2025-07-24 11:37:02,680 [WARNING] `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.
+2025-07-24 11:41:33,897 [INFO] Load pretrained SentenceTransformer: models/all-MiniLM-L6-v2
+2025-07-24 11:41:37,677 [INFO] Use pytorch device_name: cpu
+2025-07-24 11:41:38,088 [INFO] Loading faiss with AVX2 support.
+2025-07-24 11:41:38,089 [INFO] Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-07-24 11:41:38,089 [INFO] Loading faiss.
+2025-07-24 11:41:39,095 [INFO] Successfully loaded faiss.
+2025-07-24 11:41:39,107 [WARNING] `embedding_function` is expected to be an Embeddings object, support for passing in a function will soon be removed.

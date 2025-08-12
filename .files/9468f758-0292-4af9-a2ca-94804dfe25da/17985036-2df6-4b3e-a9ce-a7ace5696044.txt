@@ -1,0 +1,32 @@
+**You:** Tell me about jazz prepaid
+**Bot:** Jazz Prepaid services offer a variety of packages and features tailored to meet your communication needs. Here are some key features and services available for Jazz Prepaid customers:
+
+1. **Balance Sharing**:  
+   - Share balance with friends and family using the *100*03XXXXX*amount# or *100*<9230XXXXXXXX>*amount# USSD codes.  
+   - Charges: Rs. 8.60 (incl. tax) per transaction.  
+   - Maximum share limit: Rs. 500 per transaction, up to Rs. 500 daily.  
+
+2. **Jazz Share Request**:  
+   - Request balance from others by dialing *107#.  
+   - This service is free of cost for the requester.  
+
+3. **Monthly SUPER DUPER Offer**:  
+   - **15 GB Data** (usable on both 3G and 4G).  
+   - **3000 Jazz minutes**.  
+   - **300 other network minutes**.  
+   - **3000 SMS**.  
+   - **Price:** Rs. 1,304 (including tax).  
+   - **Validity:** Monthly (30 calendar days).  
+   - **Subscription Code:** Dial *706*2#.  
+   - This offer is **non-recursive**, so you need to subscribe again after validity ends.  
+
+4. **Tailored Packages with *699#**:  
+   - Dial *699# to get customized Data, SMS, and calling packages starting from Rs. 100*.  
+   - Packages are designed based on your usage needs.  
+
+5. **Jazz Caller Name Service**:  
+   - Identify unknown callers with this service.  
+   - **Activation:** Dial *7773# or send "SUB" to 7773.  
+   - **Charges:** Rs. 3.20/day (incl. tax).  
+
+For more details about specific packages or services, feel free to ask!

@@ -1,0 +1,43 @@
+**You:** hats the difference between prepaid bima and postpaid bima
+**Bot:** The key differences between **Prepaid BIMA** and **Postpaid BIMA** insurance services offered by Jazz are as follows:
+
+### **1. Payment Method**:
+   - **Prepaid BIMA**: The monthly premium is divided into **daily installments** and deducted from the customer's prepaid balance. If the balance is insufficient, coverage is provided proportionally based on the amount paid.
+   - **Postpaid BIMA**: The full monthly premium is charged **upfront** and added to the customer's postpaid bill. Coverage begins once the premium is successfully billed.
+
+---
+
+### **2. Coverage Start**:
+   - **Prepaid BIMA**: Coverage begins immediately after the first deduction is made from the prepaid balance.
+   - **Postpaid BIMA**: Coverage begins **from the second day** after registration, as the premium is billed in advance.
+
+---
+
+### **3. Coverage Continuity**:
+   - **Prepaid BIMA**: If the customer does not maintain sufficient balance for daily deductions, coverage is **reduced proportionally** based on the amount paid during the month.
+   - **Postpaid BIMA**: Coverage is **guaranteed for the entire month** once the premium is billed, regardless of any interruptions in service.
+
+---
+
+### **4. Subscription Process**:
+   - **Prepaid BIMA**: Customers subscribe by sending an SMS to **9878** or calling **042-111-119-878**. Daily deductions are made automatically.
+   - **Postpaid BIMA**: Customers subscribe through the same process, but the premium is added to their monthly postpaid bill.
+
+---
+
+### **5. Maximum Coverage**:
+   - **Prepaid BIMA**: Offers hospitalization and accidental coverage with **daily premium plans** ranging from PKR 2.51 to PKR 15.83, with maximum benefits up to PKR 2,500,000.
+   - **Postpaid BIMA**: Offers similar coverage, but premiums are charged monthly, ranging from PKR 75.71 to PKR 477.36, with maximum benefits up to PKR 3,125,000.
+
+---
+
+### **6. Claim Process**:
+   - Both Prepaid and Postpaid BIMA customers can claim by sending **CLAIM** to **9878** or calling **042-111-119-878**. The process is the same for both types of customers.
+
+---
+
+### **7. Flexibility**:
+   - **Prepaid BIMA**: Offers more flexibility as customers can pay in small daily amounts and adjust coverage based on their balance.
+   - **Postpaid BIMA**: Provides a more stable and consistent coverage plan with upfront billing.
+
+Let me know if you'd like further clarification!

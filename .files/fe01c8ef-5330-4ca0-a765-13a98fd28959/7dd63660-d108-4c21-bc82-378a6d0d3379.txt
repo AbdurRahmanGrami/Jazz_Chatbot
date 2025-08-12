@@ -1,0 +1,58 @@
+**You:** what kind of insurance services does jazz provide
+**Bot:** Jazz provides the following insurance services:
+
+### 1. **Handset Insurance**:
+   - Available with select bundles like the **Monthly X Offer**.
+   - **Coverage**:
+     - Screen breakage.
+     - Panel, speaker, or mic damage.
+     - Theft/Burglary.
+   - **Claim Process**:
+     - Call **051-8848801**.
+     - Submit required documents via WhatsApp.
+     - Claim amount is transferred to the JazzCash account.
+   - **Exclusions**:
+     - Pre-damaged phones.
+     - Purposely broken phones.
+     - Already lost or stolen phones.
+
+---
+
+### 2. **BIMA Family Insurance**:
+   - Covers **personal accidents** and **hospitalization** for customers and their families.
+   - **Features**:
+     - Tele-health services with 24/7 access to doctors.
+     - Weekly SMS health tips.
+     - Add up to **10 recipients** (family, friends, or employees).
+   - **Plans**:
+     - **Accidental Cover**: Maximum coverage up to PKR 2,500,000.
+     - **Hospitalization Cover**: Maximum coverage per night up to PKR 12,000.
+   - **Subscription**:
+     - Call **042-111-119-878** or SMS "BIMA Sehat" to **9878**.
+
+---
+
+### 3. **BIMA Sehat**:
+   - Focused on **hospitalization insurance** and **tele-health services**.
+   - **Coverage**:
+     - Financial support for hospital stays.
+     - Tele-doctor consultations.
+   - **Plans**:
+     - Coverage per night ranges from PKR 1,000 to PKR 12,000.
+   - **Subscription**:
+     - Call **042-111-119-878** or SMS "BIMA Sehat" to **9878**.
+
+---
+
+### 4. **FikrFree Sehat Card**:
+   - Comprehensive health insurance card.
+   - **Coverage**:
+     - Hospitalization: Up to PKR 100,000.
+     - Accidental OPD: Up to PKR 50,000.
+     - Free digital OPD consultations.
+   - **Charges**: PKR 575 (Incl. Tax).
+   - **Claim Process**:
+     - Notify Jazz within 30 days of hospital discharge.
+     - Contact via WhatsApp at **0326-8120897**.
+
+Let me know if you'd like more details about any of these services!

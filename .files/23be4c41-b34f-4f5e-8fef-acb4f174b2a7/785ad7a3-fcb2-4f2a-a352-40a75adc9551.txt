@@ -1,0 +1,2 @@
+**You:** can i use other apps using it?
+**Bot:** No, the **Monthly YouTube Offer** only provides 5GB of data specifically for YouTube usage. Other apps will not be covered under this offer, and using them will consume data from your base plan or be charged at the standard rate of Rs. 5/MB if no other data package is active.

@@ -1,0 +1,10 @@
+**You:** give me an offer which includes 10gb data and 200 offnet minutes
+**Bot:** The **Boltay Jao Offer** matches your request and provides:
+
+- **Data:** 10GB (Facebook & WhatsApp only)  
+- **Off-net Minutes:** 200  
+- **On-net Minutes:** 1,000  
+- **Price:** Rs. 121 (Incl. Tax)  
+- **Validity:** 7 Days  
+
+**Note:** This offer is available for subscribers in Abbottabad, Mingora, and Haripur only.

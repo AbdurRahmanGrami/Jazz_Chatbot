@@ -1,0 +1,46 @@
+**You:** what are the charges for bima
+**Bot:** The **BIMA Accidental Insurance** charges and coverage details are as follows:
+
+### **Postpaid Plans**:
+1. **Monthly Price (Excluding Tax)**: Rs. 75.71  
+   - **Insurance Cover**: PKR 280,000  
+   - **Funeral Expense**: PKR 50,000  
+   - **Hospitalization due to Accident**: PKR 750  
+
+2. **Monthly Price (Excluding Tax)**: Rs. 125.90  
+   - **Insurance Cover**: PKR 560,000  
+   - **Funeral Expense**: PKR 100,000  
+   - **Hospitalization due to Accident**: PKR 1,500  
+
+3. **Monthly Price (Excluding Tax)**: Rs. 263.43  
+   - **Insurance Cover**: PKR 1,560,000  
+   - **Funeral Expense**: PKR 225,000  
+   - **Hospitalization due to Accident**: PKR 3,500  
+
+4. **Monthly Price (Excluding Tax)**: Rs. 477.36  
+   - **Insurance Cover**: PKR 3,125,000  
+   - **Funeral Expense**: PKR 450,000  
+   - **Hospitalization due to Accident**: PKR 7,500  
+
+### **Prepaid Plans**:
+1. **Daily Price**: Rs. 2.51  
+   - **Monthly Price**: Rs. 75.27  
+   - **Insurance Cover**: PKR 225,000  
+   - **Hospitalization due to Accident**: PKR 600  
+
+2. **Daily Price**: Rs. 4.00  
+   - **Monthly Price**: Rs. 120.05  
+   - **Insurance Cover**: PKR 450,000  
+   - **Hospitalization due to Accident**: PKR 1,200  
+
+3. **Daily Price**: Rs. 8.71  
+   - **Monthly Price**: Rs. 261.26  
+   - **Insurance Cover**: PKR 1,250,000  
+   - **Hospitalization due to Accident**: PKR 3,000  
+
+4. **Daily Price**: Rs. 15.83  
+   - **Monthly Price**: Rs. 475.01  
+   - **Insurance Cover**: PKR 2,500,000  
+   - **Hospitalization due to Accident**: PKR 6,000  
+
+For further details or subscription, you can contact Jazz customer support or SMS "BIMA" to **9878**. Let me know if you need assistance!

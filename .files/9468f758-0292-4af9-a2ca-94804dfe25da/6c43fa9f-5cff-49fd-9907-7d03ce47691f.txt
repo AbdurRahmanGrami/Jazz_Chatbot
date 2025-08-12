@@ -1,0 +1,15 @@
+**You:** Is there a similar monthly offer
+**Bot:** The Monthly SUPER DUPER offer is a similar monthly offer that provides:
+
+- **15 GB Data** (usable on both 3G and 4G)
+- **3000 Jazz minutes**
+- **300 other network minutes**
+- **3000 SMS**
+
+**Price:** Rs. 1,304 (including tax)  
+**Validity:** Monthly (30 calendar days)  
+**Subscription Code:** Dial *706*2#  
+
+This offer is **non-recursive**, meaning you'll need to subscribe again after the validity period ends.  
+
+Let me know if you need further details!

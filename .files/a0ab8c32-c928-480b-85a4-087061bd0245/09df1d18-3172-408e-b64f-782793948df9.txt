@@ -1,0 +1,18 @@
+**You:** whats its advantage over a regular sim
+**Bot:** The **Jazz eSIM** offers several advantages over a regular physical SIM:
+
+1. **No Physical SIM Required**: eSIM is embedded directly into your device, eliminating the need for a physical SIM card.
+
+2. **Multiple Profiles**: You can store multiple numbers or profiles on a single eSIM, making it convenient to switch between personal and business numbers or local and international plans.
+
+3. **Convenience**: No need to visit a store to get a new SIM. You can activate an eSIM remotely via QR code or online.
+
+4. **Space-Saving**: Frees up space in your device for other components, as no physical SIM slot is needed.
+
+5. **Durability**: Since there’s no physical card, there’s no risk of damage, loss, or wear and tear.
+
+6. **Eco-Friendly**: Reduces plastic waste associated with physical SIM cards.
+
+7. **Global Compatibility**: Easily switch to local networks while traveling without needing to buy a physical SIM.
+
+Let me know if you need further assistance!

@@ -1,0 +1,53 @@
+**You:** tell me about all the insurance offers provided by jazz
+**Bot:** Jazz offers the following insurance-related plans:
+
+### 1. **Haafiz Plan**
+- **Partner**: EFU Life (part of the Hifazat Program)
+- **Features**:
+  - Income Continuation: Financial support during emergencies.
+  - Education Continuation: Coverage for dependents' education.
+  - Emergency Coverage: Protection against unplanned emergencies like accidents.
+  - Virtual Healthcare: Telemedicine services for the entire family via Hello Doctor.
+- **Payment**: Daily deductions from the subscriber's airtime balance.
+- **Subscription**: Contact Jazz customer support for details.
+
+---
+
+### 2. **Haafiz Plus Plan**
+- **Partner**: EFU Life (part of the Hifazat Program)
+- **Features**:
+  - Enhanced benefits compared to the Haafiz Plan.
+  - Includes income and education continuation, emergency coverage, and virtual healthcare.
+- **Payment**: Daily deductions from the subscriber's airtime balance.
+- **Subscription**: Contact Jazz customer support for details.
+
+---
+
+### 3. **BIMA Accidental Insurance**
+- **Coverage**:
+  - Accidental Insurance Cover: Up to PKR 3,125,000.
+  - Funeral Expenses: Up to PKR 450,000.
+  - Hospitalization due to Accident: Up to PKR 7,500.
+- **Pricing**:
+  - **Postpaid Plans**:
+    - Rs. 75.71 to Rs. 477.36 (Excluding Tax), depending on coverage.
+  - **Prepaid Plans**:
+    - Rs. 2.51/day to Rs. 15.83/day (Excluding Tax), depending on coverage.
+- **Subscription**: SMS "BIMA" to **9878** or contact Jazz customer support.
+
+---
+
+### 4. **Handset Insurance (Monthly X Plan)**
+- **Coverage**:
+  - Phone Damage: Includes panel, speaker, or mic damage.
+  - Screen Breakage.
+  - Theft/Burglary.
+- **Claim Process**:
+  - Call Handset Insurance Helpline: **051-8848801**.
+  - Submit required documents via WhatsApp.
+  - Claim amount is transferred to the JazzCash account upon approval.
+- **Subscription**: Included in the **Monthly X Plan** (Rs. 2,260/month).
+
+---
+
+If you need further details or assistance with any of these plans, let me know!

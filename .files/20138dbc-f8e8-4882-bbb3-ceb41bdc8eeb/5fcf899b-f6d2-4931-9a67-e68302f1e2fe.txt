@@ -1,0 +1,13 @@
+**You:** I need a monthly offer with above mentioned specifications and it should be available in karachi\
+**Bot:** The **Super Mahana Offer** matches your request and is available in Karachi. It provides:
+
+- **Data:** 10GB  
+- **Jazz Minutes:** 5000  
+- **Other Network Minutes:** 150  
+- **SMS:** 5000  
+- **Price:** Rs. 956 (Incl. Tax)  
+- **Validity:** Monthly  
+
+**Subscription Code:** Dial *529#  
+
+**Note:** This offer is available only for subscribers in Karachi and Rahim Yar Khan.

@@ -1,0 +1,16 @@
+**You:** WHat types of health inusrance can i get thru jazz
+**Bot:** Jazz offers the following health insurance options:
+
+1. **Haafiz Plan**  
+   - Provides income continuation, education continuation, emergency coverage, and virtual healthcare for the family via Hello Doctor.  
+
+2. **Haafiz Plus Plan**  
+   - Offers enhanced benefits compared to the Haafiz Plan, including income and education continuation, emergency coverage, and virtual healthcare.  
+
+3. **BIMA Accidental Insurance**  
+   - Includes accidental insurance cover, funeral expenses, and hospitalization benefits.  
+
+4. **FikrFree Sehat Card**  
+   - Comprehensive health insurance with hospitalization coverage (PKR 100,000), accidental OPD coverage (PKR 50,000), and unlimited online consultations with PMDC-certified doctors.  
+
+Let me know if you need more details about any of these plans!

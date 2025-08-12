@@ -1,0 +1,15 @@
+**You:** Tell me about the Monthly Youtube offer
+**Bot:** The **Monthly YouTube Offer** provides:
+
+- **Data:** 5GB for YouTube
+- **Price:** Rs. 104 (Incl. Tax)
+- **Validity:** 30 Days
+
+**Terms & Conditions:**
+1. The package is non-recursive; you must re-subscribe after expiry.
+2. Data can be used in 2G/3G/4G network areas.
+3. Overage charges apply at Rs. 2.25/MB if incentives are exhausted before expiry.
+4. Actual internet speed depends on factors like SIM, device, network conditions, etc.
+5. Base rates apply if no data package is active: Rs. 5/MB.
+
+This offer is **not available** for customers in AJK/GB.

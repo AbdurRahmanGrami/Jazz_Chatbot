@@ -1,0 +1,58 @@
+[project]
+# Whether to enable telemetry (default: true). No personal data is collected.
+enable_telemetry = true
+
+# List of environment variables to be provided by each user to use the app.
+user_env = ["USER_EMAIL"]
+
+# Duration (in seconds) during which the session is saved when the connection is lost
+session_timeout = 3600
+
+# Duration (in seconds) of the user session expiry (15 days)
+user_session_timeout = 1296000
+
+# Enable third parties caching (e.g., LangChain cache)
+cache = false
+
+# Authorized origins (adjust in prod if needed)
+allow_origins = ["*"]
+
+[features]
+unsafe_allow_html = false
+latex = false
+user_message_autoscroll = true
+auto_tag_thread = true
+edit_message = true
+
+[features.spontaneous_file_upload]
+enabled = true
+accept = ["*/*"]
+max_files = 20
+max_size_mb = 500
+
+[features.audio]
+sample_rate = 24000
+
+[features.mcp.sse]
+enabled = true
+
+[features.mcp.stdio]
+enabled = true
+allowed_executables = ["npx", "uvx"]
+
+[UI]
+name = "Jazz Assistant"
+default_theme = "dark"
+cot = "full"
+# layout = "wide"
+# default_sidebar_state = "open"
+
+# Custom login background (optional - must exist in `.chainlit/public`)
+# login_page_image = "/public/jazz-banner.jpg"
+# login_page_image_filter = "brightness-75"
+
+# Example if you want a custom CSS file:
+# custom_css = "/public/jazz-style.css"
+
+[meta]
+generated_by = "manual"

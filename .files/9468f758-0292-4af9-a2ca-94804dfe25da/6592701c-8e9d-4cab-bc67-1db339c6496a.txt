@@ -1,0 +1,38 @@
+**You:** Yes give me all the terms and condition of this offer
+**Bot:** Here are the detailed terms and conditions of the **Monthly SUPER DUPER** offer:
+
+### Key Terms:
+1. **Subscription Code**: Dial *706*2# to subscribe.
+2. **Validity**: The offer is valid for **30 calendar days** (including the subscription day).
+3. **Non-Recursive**: The offer does not automatically renew. You need to subscribe again after the validity period ends.
+4. **Availability**: Not available in AJK/GB regions.
+
+### Data Usage:
+- **15 GB Data**: Usable on both 3G and 4G networks.
+- **Overage**: Rs. 2.25/MB (including tax) applies if data incentives are exhausted.
+- **Data Speed**: Actual speed depends on factors like SIM, device, network coverage, and usage patterns.
+
+### Voice Calls:
+- **3000 Jazz Minutes**: For calls within the Jazz network.
+- **300 Other Network Minutes**: For calls to other networks.
+- **Usage**: Minutes can be used 24/7 without time restrictions.
+- **Call Setup Fee**: Not applicable for this offer.
+
+### SMS:
+- **3000 SMS**: Can be used 24/7 without time restrictions.
+
+### General Terms:
+1. **Multiple Subscriptions**: You can subscribe to this offer multiple times.
+2. **Base Rate**: If no bundle is active, the base rate of Rs. 5/MB for data and Rs. 3.5/60 seconds for calls applies.
+3. **Data Reservation**: The system reserves data for specific applications, which may consume your data bundle faster.
+4. **Taxes**: All charges include applicable taxes (GST and AIT). Rates vary by region.
+5. **Subscription Process**: Upon dialing the subscription code, you will be subscribed for exactly 30 days, and the offer will expire at midnight on the 30th day.
+6. **Changes to Offer**: Jazz reserves the right to modify or withdraw the offer at any time.
+7. **Late Payment Fee**: A late payment fee of PKR 50 applies to unpaid bills after the due date.
+8. **Resource Inquiry**: Dial *2222# to check remaining data, SMS, and minutes.
+
+### Compliance:
+- SIM ownership: The SIM remains the property of Jazz. Using a SIM not registered in your name is a crime.
+- Reporting Spam: Unwanted messages can be reported to 9000.
+
+For further details, feel free to ask!

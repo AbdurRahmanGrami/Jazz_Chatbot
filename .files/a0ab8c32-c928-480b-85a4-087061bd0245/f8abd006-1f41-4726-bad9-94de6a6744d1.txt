@@ -1,0 +1,17 @@
+**You:** I am going on a hike thru the mountains of skardu, which 4g device should I get
+**Bot:** For a hike through the mountains of Skardu, you should consider the **Jazz Super 4G WiFi Device** or **Jazz Home WiFi Device** based on your needs:
+
+### **Jazz Super 4G WiFi Device**:
+- **Portability**: Compact and easy to carry, ideal for outdoor activities like hiking.
+- **Speed**: Up to 150 Mbps.
+- **Battery**: 2300mAh, providing mobility without needing constant charging.
+- **Price**: Rs. 7,000.
+- **Features**: Plug-and-play, WPS WiFi, and one-tap settings via a mobile app.
+
+### **Jazz Home WiFi Device**:
+- **Long Range**: Better for stationary use or if you plan to camp in one location.
+- **Speed**: Up to 150 Mbps.
+- **Price**: Rs. 12,000.
+- **Features**: Admin app for management and long-range WiFi.
+
+For hiking, the **Jazz Super 4G WiFi Device** is recommended due to its portability and battery-powered operation. Ensure you subscribe to a suitable data bundle for uninterrupted connectivity in remote areas.

@@ -1,0 +1,8 @@
+**You:** whats the cheapest social offer
+**Bot:** The **cheapest social offer** is the **Facebook Offer**, which provides:
+
+- **Data:** 200 MB (Facebook only)  
+- **Price:** Rs. 6 (Incl. Tax)  
+- **Validity:** 1 Day  
+
+**Note:** This offer is for selected/targeted customers only and may not be available nationwide.

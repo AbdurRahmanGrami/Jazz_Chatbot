@@ -1,0 +1,2 @@
+**You:** what is the plan's url
+**Bot:** The URL for the **Haafiz Plus Plan** by Jazz is: [https://jazz.com.pk/prepaid/haafiz-plus-plan](https://jazz.com.pk/prepaid/haafiz-plus-plan)

@@ -1,0 +1,48 @@
+**You:** what about bima family insurance?
+**Bot:** BIMA Family Insurance is an innovative service offered by Jazz that provides personal accident and hospitalization insurance along with health services. It allows prepaid customers to cover their family, friends, relatives, or employees through their Jazz accounts. Here are the details:
+
+### **Key Features**:
+1. **Coverage**:
+   - Personal Accidental Cover: Provides financial protection in case of accidents.
+   - Hospitalization Cover: Covers expenses for hospital stays due to accidents or illnesses.
+   - Tele-Health Services: 24/7 access to qualified tele-doctors.
+   - Weekly SMS Health Tips: Guidance to improve health and wellness.
+
+2. **Nominees**:
+   - Customers can add up to **10 recipients** (family, friends, or employees) to their account.
+   - Recipients can be from other networks or postpaid customers.
+
+3. **Hassle-Free**:
+   - No paperwork or medical check-ups required.
+   - Subscription and claims can be processed directly via mobile.
+
+### **Plans & Charges**:
+#### **Personal Accidental Cover**:
+| **Plan**       | **Daily Price** | **Monthly Price** | **Maximum Cover** |
+|-----------------|-----------------|-------------------|-------------------|
+| **Silver**     | PKR 2.51        | PKR 75.31         | PKR 225,000       |
+| **Gold**       | PKR 4.00        | PKR 120.05        | PKR 450,000       |
+| **Platinum**   | PKR 8.71        | PKR 261.26        | PKR 1,250,000     |
+| **Diamond**    | PKR 15.83       | PKR 475.01        | PKR 2,500,000     |
+
+#### **Hospitalization Cover (BIMA Sehat)**:
+| **Plan**       | **Daily Price** | **Monthly Price** | **Max Coverage per Night** |
+|-----------------|-----------------|-------------------|----------------------------|
+| **Silver**     | PKR 2.51        | PKR 75.27         | PKR 1,000                 |
+| **Gold**       | PKR 4.00        | PKR 120.10        | PKR 2,250                 |
+| **Platinum**   | PKR 7.86        | PKR 235.90        | PKR 5,500                 |
+| **Diamond**    | PKR 14.30       | PKR 428.95        | PKR 12,000                |
+
+### **How to Subscribe**:
+1. **Call**: Dial **042-111-119-878** to speak with an agent.
+2. **SMS**: Send "BIMA Sehat" to **9878**. A representative will call you within 24 working hours.
+
+### **Claim Process**:
+1. SMS "CLAIM" to **9878** or call **042-111-119-878** within **270 days** of the incident.
+2. A BIMA representative will guide you through the claim process.
+
+### **Additional Notes**:
+- Coverage is provided even with partial payments (proportional benefits apply).
+- Terms and conditions apply, including exclusions for self-inflicted injuries, elective treatments, and pregnancy-related complications.
+
+Let me know if you'd like more details or assistance with subscribing!

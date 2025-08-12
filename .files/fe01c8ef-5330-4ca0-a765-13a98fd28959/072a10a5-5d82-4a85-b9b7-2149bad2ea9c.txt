@@ -1,0 +1,51 @@
+**You:** tell me about bima sehat
+**Bot:** The **BIMA Sehat** plan by Jazz offers monthly hospitalization insurance along with tele-health services. It is designed to provide financial support during medical emergencies and access to health services. Here are the details:
+
+---
+
+### **Key Features**:
+1. **Hospitalization Coverage**:
+   - Provides financial assistance for hospital stays due to accidents or illnesses.
+   - Maximum coverage varies based on the selected plan.
+
+2. **Tele-Health Services**:
+   - 24/7 access to qualified tele-doctors.
+   - Includes consultations with general physicians and specialists (e.g., gynecologists, pediatricians, nutritionists, and psychologists).
+
+3. **Weekly SMS Health Tips**:
+   - Guidance to improve health and wellness.
+
+4. **Nominees**:
+   - Customers can add up to **10 recipients** (family, friends, or employees).
+   - Recipients can be from other networks or postpaid customers.
+
+---
+
+### **Plans & Charges**:
+#### **Hospitalization Cover**:
+| **Plan**       | **Daily Price** | **Monthly Price** | **Max Coverage per Night** |
+|-----------------|-----------------|-------------------|----------------------------|
+| **Silver**     | PKR 2.51        | PKR 75.27         | PKR 1,000                 |
+| **Gold**       | PKR 4.00        | PKR 120.10        | PKR 2,250                 |
+| **Platinum**   | PKR 7.86        | PKR 235.90        | PKR 5,500                 |
+| **Diamond**    | PKR 14.30       | PKR 428.95        | PKR 12,000                |
+
+---
+
+### **How to Subscribe**:
+1. **Call**: Dial **042-111-119-878** to speak with an agent.
+2. **SMS**: Send "BIMA Sehat" to **9878**. A representative will call you within 24 working hours.
+
+---
+
+### **Claim Process**:
+1. SMS "CLAIM" to **9878** or call **042-111-119-878** within **270 days** of the incident.
+2. A BIMA representative will guide you through the claim process.
+
+---
+
+### **Additional Notes**:
+- Coverage is provided even with partial payments (proportional benefits apply).
+- Terms and conditions apply, including exclusions for self-inflicted injuries, elective treatments, and pregnancy-related complications.
+
+Let me know if you'd like further details or assistance!

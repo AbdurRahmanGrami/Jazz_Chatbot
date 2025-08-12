@@ -1,0 +1,2 @@
+**You:** which cities is it available in?
+**Bot:** Sorry, I wasn't able to process that request. Please try rephrasing your question or ask about Jazz services.

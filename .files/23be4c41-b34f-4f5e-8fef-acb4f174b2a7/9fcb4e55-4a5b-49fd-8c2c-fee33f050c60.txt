@@ -1,0 +1,2 @@
+**You:** What does Jazz Insurance cover?
+**Bot:** Sorry, I wasn't able to process that request. Please try rephrasing your question or ask about Jazz services.

@@ -1,0 +1,43 @@
+**You:** Tell me about jazz devices
+**Bot:** Jazz offers a variety of devices and services, including mobile handsets, Wi-Fi devices, and installment plans. Here are the details:
+
+### **Jazz Handset Installment Plan**:
+Jazz provides smartphones on easy installment plans through Jazz Experience Centers and selected franchises. Key details include:
+1. **Eligibility**: Available for all Jazz customers.
+2. **Brands**: Includes Samsung, Nokia, Redmi, Infinix, and others.
+3. **Payment Terms**: 
+   - Down payment: 50% of the handset price.
+   - Monthly installments: Spread over 6 months.
+   - Handset insurance is mandatory.
+4. **Examples**:
+   - **Samsung A05 (6/128GB)**: Total cost Rs. 33,788 (Down payment Rs. 16,221 + Monthly Rs. 2,928).
+   - **Tecno Spark 20 KJ5 (8/256GB)**: Total cost Rs. 37,562 (Down payment Rs. 18,032 + Monthly Rs. 3,255).
+
+### **Jazz Super 4G Wi-Fi Devices**:
+Jazz offers portable Wi-Fi devices with high-speed internet:
+1. **Jazz Super 4G Wi-Fi**:
+   - Speed: Up to 150 Mbps.
+   - Price: Rs. 7,000.
+   - Features: Plug-and-play, supports Micro SD card up to 32GB, battery capacity 2300mAh.
+   - Subscription Code: Dial *5299# for home delivery.
+2. **Jazz Home Wi-Fi**:
+   - Speed: Up to 150 Mbps.
+   - Price: Rs. 12,000.
+   - Features: Long-range Wi-Fi, admin app, one-tap settings.
+
+### **Bundles for Wi-Fi Devices**:
+Jazz offers data bundles for Wi-Fi devices:
+1. **3-Day Bundle**: 8GB for Rs. 347.8 (Subscription Code: *117*53#).
+2. **Weekly Bundle**: 25GB for Rs. 869.5 (Subscription Code: *117*57#).
+3. **Monthly Bundles**:
+   - Regular: 60GB for Rs. 2,173.91 (Subscription Code: *117*73#).
+   - Mega: 110GB for Rs. 2,260.87 (Subscription Code: *117*36#).
+   - Heavy: 180GB for Rs. 2,608.69 (Subscription Code: *117*74#).
+4. **Long Duration Bundles**:
+   - 3-Month Bundle: 65GB for Rs. 5,625.17 (Subscription Code: *117*15#).
+   - 6-Month Bundle: 100GB for Rs. 12,173.91 (Subscription Code: *117*16#).
+
+### **Device Repairs & Warranty**:
+Faulty Jazz devices can be repaired at service centers in major cities (e.g., Islamabad, Lahore, Karachi). Customers from other cities can dispatch devices to the Islamabad service center via M&P. Repairs under warranty are free; charges apply for physical or water damage.
+
+Let me know if you'd like more details about any specific device or service!

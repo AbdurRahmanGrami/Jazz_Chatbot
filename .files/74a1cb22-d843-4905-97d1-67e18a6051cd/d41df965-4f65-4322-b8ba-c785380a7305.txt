@@ -1,0 +1,2 @@
+**You:** Can I get a sim in my name if I don't have a cnic yet?
+**Bot:** No, you cannot get a SIM in your name without a CNIC. Jazz requires a valid CNIC for biometric verification to issue a SIM card. If you're unable to provide a CNIC, you won't be able to obtain a SIM in your name. Please ensure you have a valid CNIC before applying. Let me know if you have any other questions!

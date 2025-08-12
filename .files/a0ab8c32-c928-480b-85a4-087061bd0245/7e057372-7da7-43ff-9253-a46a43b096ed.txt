@@ -1,0 +1,4 @@
+**You:** Are both of these portable?
+**Bot:** Yes, both the **Jazz Super 4G WiFi Device** and the **Jazz Home WiFi Device** are portable. However, the **Jazz Super 4G WiFi Device** is specifically designed for mobility, making it ideal for outdoor activities like hiking. It has a built-in battery for wireless use without requiring constant charging.
+
+The **Jazz Home WiFi Device** is portable but better suited for stationary use, such as camping in one location, as it does not have a built-in battery and requires a power source.

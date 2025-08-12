@@ -1,0 +1,23 @@
+**You:** whats webdoc
+**Bot:** WebDoc is a digital healthcare service offered by Jazz that provides access to telemedicine and health-related benefits. Here are the key features:
+
+### **Key Features**:
+1. **Tele-Consultations**:
+   - Access to qualified doctors for consultations via phone or online.
+   - Includes general physicians and specialists.
+
+2. **Health Insurance**:
+   - Coverage for hospitalization and medical emergencies.
+   - Specific plans may include financial support for accidents or illnesses.
+
+3. **Health Tips**:
+   - Regular SMS-based health tips to improve wellness and awareness.
+
+4. **Convenience**:
+   - No paperwork or medical check-ups required.
+   - Services can be accessed directly through your Jazz account.
+
+### **How to Subscribe**:
+- Dial the specific subscription code (if applicable) or contact Jazz customer support for assistance.
+
+Let me know if you'd like more details or help with subscribing!
